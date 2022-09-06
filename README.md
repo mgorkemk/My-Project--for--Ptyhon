@@ -1,3 +1,3 @@
 # My-Project--for--Ptyhon
 
-[Patika.dev](Patika.dev)
+[Patika.dev](www.patika.dev)
